@@ -59,7 +59,7 @@ A web application that allows users to send OTPs via SMS to contacts. Built with
    ```
 
 ## 🌐 Live Demo
-Deployed on Netlify: contacswebapplictionrohit.netlify.app
+Deployed on Netlify: https://contacswebapplictionrohit.netlify.app/contacts
 
 ## 📬 Contact
 For any queries, feel free to reach out:
